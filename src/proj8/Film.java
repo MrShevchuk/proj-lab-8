@@ -41,7 +41,7 @@ public class Film {
         return "Film{" +
                 "name='" + name + '\'' +
                 ", genre='" + genre + '\'' +
-                ", time='" + time + '\'' +
+                ", time='" + time + " мин." + '\'' +
                 '}';
     }
 }
